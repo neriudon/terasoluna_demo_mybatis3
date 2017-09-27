@@ -1,4 +1,4 @@
-package terasoluna_demo_mybatis3.app.todo;
+package todo.app.todo;
 
 import java.io.Serializable;
 import javax.validation.constraints.NotNull;

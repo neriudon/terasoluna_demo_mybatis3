@@ -1,4 +1,4 @@
-package terasoluna_demo_mybatis3.app.welcome;
+package todo.app.welcome;
 
 import java.text.DateFormat;
 import java.util.Date;

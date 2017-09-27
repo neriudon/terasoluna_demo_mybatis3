@@ -1,8 +1,8 @@
-package terasoluna_demo_mybatis3.domain.repository.todo;
+package todo.domain.repository.todo;
 
 import java.util.Collection;
 
-import terasoluna_demo_mybatis3.domain.model.Todo;
+import todo.domain.model.Todo;
 
 public interface TodoRepository {
 

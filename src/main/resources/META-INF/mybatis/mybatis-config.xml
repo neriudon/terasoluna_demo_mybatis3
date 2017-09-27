@@ -17,16 +17,16 @@
     </settings>
 
     <typeAliases>
-        <package name="terasoluna_demo_mybatis3.domain.model" />
-        <package name="terasoluna_demo_mybatis3.domain.repository" />
+        <package name="todo.domain.model" />
+        <package name="todo.domain.repository" />
 <!--
-        <package name="terasoluna_demo_mybatis3.infra.mybatis.typehandler" />
+        <package name="todo.infra.mybatis.typehandler" />
 -->
     </typeAliases>
 
     <typeHandlers>
 <!--
-        <package name="terasoluna_demo_mybatis3.infra.mybatis.typehandler" />
+        <package name="todo.infra.mybatis.typehandler" />
 -->
     </typeHandlers>
 
